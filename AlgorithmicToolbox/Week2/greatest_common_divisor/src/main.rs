@@ -2,14 +2,13 @@ use std::io;
 
 fn main() {
 
-    let mut input1 = String::new();
-    io::stdin().read_line(&mut input1).expect("Failed to read line!");
+    let mut input = String::new();
+    io::stdin().read_line(&mut input).expect("Failed to read line!");
 
-    let mut input2 = String::new();
-    io::stdin().read_line(&mut input2).expect("Failed to read line!");
+    let  numbers: Vec<u128> = input.split_whitespace().map(|x| x.parse().unwrap()).collect();
     
-    let x: u128 = input1.trim().parse().expect("Please type an integer.");
-    let y: u128 = input2.trim().parse().expect("Please type an integer.");
+    let x: u128 = numbers[0];
+    let y: u128 = numbers[1];
     println!("{}", gcd(x,y));
 
 }

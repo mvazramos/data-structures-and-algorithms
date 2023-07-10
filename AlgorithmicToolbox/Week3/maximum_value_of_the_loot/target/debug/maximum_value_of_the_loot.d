@@ -1,0 +1,1 @@
+/home/miguel/workplace/DataStructuresAndAlgorithms/AlgorithmicToolbox/Week3/maximum_value_of_the_loot/target/debug/maximum_value_of_the_loot: /home/miguel/workplace/DataStructuresAndAlgorithms/AlgorithmicToolbox/Week3/maximum_value_of_the_loot/src/main.rs

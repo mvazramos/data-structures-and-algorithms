@@ -1,0 +1,1 @@
+/home/miguel/workplace/DataStructuresAndAlgorithms/AlgorithmicToolbox/Week2/least_common_multiple/target/debug/least_common_multiple: /home/miguel/workplace/DataStructuresAndAlgorithms/AlgorithmicToolbox/Week2/least_common_multiple/src/main.rs

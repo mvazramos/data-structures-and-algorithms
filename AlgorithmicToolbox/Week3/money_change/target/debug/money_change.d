@@ -1,0 +1,1 @@
+/home/miguel/workplace/DataStructuresAndAlgorithms/AlgorithmicToolbox/Week3/money_change/target/debug/money_change: /home/miguel/workplace/DataStructuresAndAlgorithms/AlgorithmicToolbox/Week3/money_change/src/main.rs

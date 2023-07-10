@@ -1,0 +1,1 @@
+/home/miguel/workplace/DataStructuresAndAlgorithms/AlgorithmicToolbox/Week3/car_fueling/target/debug/car_fueling: /home/miguel/workplace/DataStructuresAndAlgorithms/AlgorithmicToolbox/Week3/car_fueling/src/main.rs
