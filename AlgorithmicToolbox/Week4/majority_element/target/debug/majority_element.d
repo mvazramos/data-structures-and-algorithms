@@ -1,0 +1,1 @@
+/home/miguel/workplace/DataStructuresAndAlgorithms/AlgorithmicToolbox/Week4/majority_element/target/debug/majority_element: /home/miguel/workplace/DataStructuresAndAlgorithms/AlgorithmicToolbox/Week4/majority_element/src/main.rs

@@ -1,0 +1,1 @@
+/home/miguel/workplace/DataStructuresAndAlgorithms/AlgorithmicToolbox/Week4/binary_search/target/debug/binary_search: /home/miguel/workplace/DataStructuresAndAlgorithms/AlgorithmicToolbox/Week4/binary_search/src/main.rs
